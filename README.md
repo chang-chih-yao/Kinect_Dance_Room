@@ -1,4 +1,4 @@
-# AR_VR
+# AR_VR課程：Kinect_Dance_Room
 
 資工所碩一課程，做一個有關AR的project
 
