@@ -1,7 +1,7 @@
 # AR_VR課程：Kinect_Dance_Room
 
 - 開發平台：Win 10
-- 開發裝置：Microsoft Kinect2
+- 開發裝置：Microsoft Kinect 2
 - 開發工具：Unity
 
 ***
