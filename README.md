@@ -16,6 +16,8 @@
 
 ***
 
+## Slide
+
 ![image](https://github.com/chang-chih-yao/Kinect_Dance_Room/blob/master/Slide_1.JPG)
 
 ![image](https://github.com/chang-chih-yao/Kinect_Dance_Room/blob/master/Slide_2.JPG)
