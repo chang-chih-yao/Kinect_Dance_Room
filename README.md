@@ -12,7 +12,7 @@
 
 ***
 
-[Demo Video](https://youtu.be/T4IG0K_DuVQ)
+[**Demo Video**](https://youtu.be/T4IG0K_DuVQ)
 
 ***
 
